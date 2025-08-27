@@ -16,3 +16,7 @@ git init
 git add
 git commit -m
 git log
+
+# commit
+"doc:"
+"add:"
