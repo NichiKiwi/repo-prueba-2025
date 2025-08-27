@@ -22,3 +22,4 @@ git log
 "add:"
 
 # pruebas
+si no tenes el repositorio pones git clone y el link del repo
